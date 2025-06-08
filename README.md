@@ -18,7 +18,11 @@ groups players logically based on the patterns. The T20 Blast of England is foun
 be the most competitive league using the competitive analysis measure.
 
 1.The file Competition.xlsx has the standard deviation, upset frequency and winning index calculations.
+
 2.The file competitiveness_runs_balls.xlsx has Competitiveness Measure and Competitiveness Analysis.
-3.The ipynb file Beautiful_soup.ipynb has the webscrap code used for collecting data.
+
+3.The ipynb file Beautiful_soup.py has the webscrap code used for collecting data.
+
 4.The ipynb file player_valuation.ipynb has the player performance and clustering codes.
+
 5.The ipynb file winning_index.ipynb has the winning index calculation code.
